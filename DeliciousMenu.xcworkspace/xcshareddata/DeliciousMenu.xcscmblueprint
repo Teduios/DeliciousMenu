@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CEC22DCB72D11FCD5FC04A4ECF8D0B8A4CCF7739",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "44BDB31265F4C4BCA990488808C0625B47586C39" : 0,
+    "CEC22DCB72D11FCD5FC04A4ECF8D0B8A4CCF7739" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "34364AA0-A1DD-4BDE-8E72-25CB77DF87FE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "44BDB31265F4C4BCA990488808C0625B47586C39" : "",
+    "CEC22DCB72D11FCD5FC04A4ECF8D0B8A4CCF7739" : "caipudaquan\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DeliciousMenu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DeliciousMenu\/DeliciousMenu.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hgyhei\/caipu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "44BDB31265F4C4BCA990488808C0625B47586C39"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hgyhei\/sometest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CEC22DCB72D11FCD5FC04A4ECF8D0B8A4CCF7739"
+    }
+  ]
+}
